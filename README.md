@@ -1,0 +1,2 @@
+# -IBM-Live-Weather-Dashboard
+A live weather dashboard built using HTML, CSS, and JavaScript.  Personal portfolio showcasing my projects and skills.
