@@ -24,7 +24,7 @@ Built using **HTML, CSS, and JavaScript**, it fetches live weather data from the
 
 ---
 
-## 🌐 Domain🔗https://https://wethe.netlify.app/IBM-Live-Weather-Dashboard/
+## 🌐 Domain🔗https://https://wethe.netlify.app/
 
 ---
 
